@@ -5,6 +5,7 @@ The objective is to construct a model that can be used to determine which type o
 Available attributes in the data set are:
 
 ID : Customer ID
+
 Age : Customer's age in completed years
 Experience : years of professional experienc
 Income : Annual income of the customer
